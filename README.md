@@ -1,2 +1,2 @@
 # View3D
-visualize customizations and decorations in 3d
+visualize room/house customizations and decorations in 3d
